@@ -1,0 +1,6 @@
+{
+  "name": "GPE Android App",
+  "description": "A simple welcome app with a clickable button.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
